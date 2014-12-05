@@ -16,8 +16,8 @@ public class LareBacco {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-         System.out.println("hello word");
-         lapin lap = new lapin("lapinou", 3);
+         System.out.println("Et toiiiii !!!");
+         lapin lap = new lapin("petit lapin tout doux comme un poney", 3);
          while(i <= 10){ 
              lap.crier();
              i = i+1;
