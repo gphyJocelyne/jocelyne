@@ -35,7 +35,7 @@ public class lapin {
     }
 
     void crier() {
-        System.out.println("HAAAAAAAAAA !");
+        System.out.println("PONEYYY !");
     }
      
    
